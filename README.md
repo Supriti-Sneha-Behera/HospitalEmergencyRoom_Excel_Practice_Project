@@ -1,4 +1,4 @@
-# HospitalEmergencyRoom_Excel_PracticeProject
+# HospitalEmergencyRoom Excel Practice Project
 
 An interactive data analytics project designed to analyze hospital emergency room operations, monitor patient flow, evaluate waiting times, and support data-driven healthcare decision-making.
 
